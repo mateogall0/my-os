@@ -6,8 +6,9 @@ How to install and use my personalized Ubuntu flavor.
 - kitty
 - tmux
 - emacs
-- brave-browser
 - keepassxc
+- dolphin
+- arandr
 
 
 ## Install
